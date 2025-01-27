@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/lightdm_interop_test.dir/interop.c.o -o lightdm_interop_test  -lm 

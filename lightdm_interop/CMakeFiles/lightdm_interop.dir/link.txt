@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,liblightdm_interop.so.1 -o liblightdm_interop.so.1.0.0 CMakeFiles/lightdm_interop.dir/interop.c.o  -lm /usr/lib/x86_64-linux-gnu/liblightdm-gobject-1.so 
